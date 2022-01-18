@@ -17,8 +17,10 @@
 package modelo;
 
 /**
+ *
  * Arbol n-ario para almacenar valores enteros. No permite almacenar valores
  * repetidos.
+ *
  *
  * @author Oscar Arenas
  */
